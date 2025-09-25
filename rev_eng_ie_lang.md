@@ -8,24 +8,31 @@ theme:
 
 # Quiz 1
 - Vznikol jazyk náhodou?
+<!-- pause -->
 - Čo to je vlastne _náhoda_?
+<!-- pause -->
 - Ak to by nebola náhoda, aké indikácie by sme nachádzali?
 <!-- end_slide -->
 
 # Prečo sa týmto zapodievať?
 - Jazyk je programovacia reč ľudskej mysle
+<!-- pause -->
 - Objavovať a učiť sa
     - Doslovný a prenesený význam (metafora)
+<!-- pause -->
 - Pôvod
+<!-- pause -->
 - Fallback: intelektuálne sudoku
 <!-- end_slide -->
     
 # Začíname
-* svabodha
-> Samsara is only a superimposition, an appearance. Without this realization there is nothing like svabodha in anybody’s life at any time.
+> Samsara is only a superimposition, an appearance. Without this realization there is nothing like **svabodha** in anybody’s life at any time.
 
+<!-- pause -->
 * svabodha -> svoboda -> sloboda
-* Swami TV definition: seba-poznanie
+<!-- pause -->
+* Swami TV: seba-poznanie
+<!-- pause -->
 * *Stručný etymologický slovník slovenčiny* od Libora Králika:
 
 > **sloboda** (od 15\. stor.) Pôvodne asi _svoboda_ (tak v iných sl. jazykoch: čes. _svoboda_, rus. _svobóda_ (_свобода_) а і.), vznik formy _sloboda_ možno vysvetliť disimiláciou perných spoluhlások v-b- \> l-b-. Východiskom výrazu je psl. \*svoboda, nejasného pôvodu – môže byť odvodené (k prípone porov. _jahoda_ ap.) od koreňa \*_svob_- (porov. csl. _svob-bstvo_ (**CBO-БЬСТВО**), 'osoba', resp. aj lot. at-svab-inât 'oslobodiť'), od ide. \*seue-, \*sue- (svoj), čo predpokladá pôvodný význam typu 'patriaci k svojim, k vlastnému rodu' \> 'slobodný'; iný výklad tu vychádza z ide. \*_suo-pot-_ (s predpokladaným variantným \*_-bod-_), 'kto je svojím pánom', od ide. \*_seue-_, \*_sue-_ (svoj) a \*_pot-_, 'pán' (ďalej pozri _hospodár_). K **slobodomurár** pozri _múr_.
@@ -59,7 +66,7 @@ theme:
 
 <!-- end_slide -->
 
-# RD
+# RD - príchod svetla
 * **n** - vody, ničota
 * **d** - svetlo
 * **r** - príchod
@@ -70,11 +77,17 @@ Aplikákcia v IE rečiach:
 * ES: oRDen,
 * DE: ORDnung
 
-RD ako príchod svetla do tmy noci, ako zažiatok novej epizódy stvorenia, ako usporiadanie stvorenie (chaos -> kozmos)
+Aký je rozdiel medzi chaosom a kozmosom?
+
+- Vesmír ako _vše-smer_ - to, čo rastie do všetkých smerov.
+- Rovnaký význam ako IE koreň _kha_ (to čo sa rozpína krivočiaro)
+- Kha je koreň pre _chaos_ aj _kozmos_. Kozmos je usporiadaný. Preto krásny, preto kozmetika.
+
+RD ako príchod svetla do tmy noci, ako zažiatok novej epizódy stvorenia, ako svetlo usporiadanie stvorenie (chaos -> kozmos). 
 
 <!-- end_slide -->
 
-# MDR
+# MDR - nepodmienené potešenie
 * **d** - svetlo
 * **r** - príchod
 * **m** - limit
@@ -85,7 +98,8 @@ d -> ad -> mad -> mud -> mudra
 
 Múdrosť ako opojenie stvorením, mudra ako symbol toho.
 <!-- end_slide -->
-# SMR
+
+# SMR - koniec materiálnej formy
 
 * **s** - blízkosť
 * **m** - limit
@@ -106,7 +120,7 @@ Aplikácia:
 
 # Zaujímavé slova
 - Dunaj, Don
-- Rín, Róna
+- Rín, Rhóna
 - Tatry
 - Killimanjaro
 - Ljubljana
@@ -114,17 +128,15 @@ Aplikácia:
 - Himaláje
 - sivá
 - šíla
-- sa:kAla -> kal, kálať
+- sa:kAla -> kal, kálať, kalendár
 - sa:kAla = en:black, en:time
 - sa:iSu ~ šíp
 - sa:dvAra -> dvere
 - sa:bheda -> beda
 - sa:lup -> lúpiť, lup
-- sa:pada -> päta
 - sa:yama -> jama
 - sa:silam -> sila
 - sa:shuci -> súci
-- sa:hima -> sneh
 - sa:rasa -> rosa
 - sa:pas -> pes
 - sa:lakSmI -> lakomý
@@ -142,8 +154,9 @@ Aplikácia:
 
 # Ďakujem za pozornosť
 
-* Poteším sa spätnej väzbe na
-    * martinuzak136@gmail.com
+* https://github.com/uzak/etymolog
+* https://uzak.github.io/etymolog/
+* https://martinuzak.com
 
 
 <!--

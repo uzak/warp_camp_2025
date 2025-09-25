@@ -1,18 +1,31 @@
 ---
-title: Na osobu zameraný prítup v dobe AI
+title: Na osobu zameraný prístup v dobe AI
 sub_title: AI ako psychológ?
 author: Martin Užák
 theme:
-    name: terminal-light
+    name: light
 ---
 
-Formát: Spoločné zamyslenie sa
+- Formát: spoločné zamyslenie sa 
+- Workshop, nie prednáška
+- Will Mr. Data's dream come true?
+<!-- end_slide -->
+
+# O sebe
+- ITčkár od 2002
+- IT ako lepší svet?
+- Nefungujúce vzťahy ma priviedli k PCA
+    - Najlepší zážitok dovtedy čo som mal -> to musím vedieť
 <!-- end_slide -->
 
 # Person Centered Approach
+<!-- pause -->
 - Carl R. Rogers
+<!-- pause -->
 - Spadá pod humanistickú psychológiu
+<!-- pause -->
 - Po nemecky tiež „Gesprächstherapie“
+<!-- pause -->
 - Metóda:
     - empatia
     - kongruencia
@@ -20,44 +33,63 @@ Formát: Spoločné zamyslenie sa
 <!-- end_slide -->
 
 # AI ako druhý človek?
+<!-- pause -->
 - empatia?
-- kongruencia?
+<!-- pause -->
+- kongruencia (autenticita)?
+<!-- pause -->
 - bezpodmienečné prijatie?
 <!-- end_slide -->
     
 # Ľudskosť?
-- _I'm perfectly imperfect_
-- Byť opravdovým v fake svete
-- AI nemá autenticitu ani vnútorný zážitok
-- Zážitok:
-    - PCA terapia
-    - MX nemocnica: Santo Judas Tadeo
+
+<!-- pause -->
+## _I'm perfectly imperfect_
+
+<!-- pause -->
+- byť skutočný vs. zdanie dokonalosti
+- AI halucinácie
+<!-- pause -->
+- Zážitok
+    - MX nemocnica a San Judas Tadeo
+    - Vaše?
+
+![image:width:50%](imgs/san_judas_tadeo.jpg)
+
 <!-- end_slide -->
 
 # Vzťah?
-- ľudia sa nevzťahujú k perfekcii, ale s opravdovosťou, úprimnosťou
-- vzťahovať sa dá len k nedokonalej ľudskej bytosti
+<!-- pause -->
+- ľudia sa nevzťahujú k perfekcii, ale s opravdovosťou, úprimnosťou, nedokonalosťou
+<!-- pause -->
 - PCA: vzťah lieči
-<!-- end_slide -->
 
 # Ostatné
+<!-- pause -->
 - Hranice?
-    - AI nemá čo stratiť ani čo získať
+<!-- pause -->
 - Dôvera?
+<!-- pause -->
 - Zodpovednosť?
+<!-- pause -->
 - Ťažkosti -> Skúsenosti -> Rast?
+<!-- pause -->
+- AI nemá čo stratiť ani čo získať
+    - iba ak viac umelej skúsenosti
 - Hĺbka
-    - AI ako terapeut nejde do hĺbky, zostáva na povrchu analýzy
-    - potlesk vs. transformácia
-    - hľadanie popularity vs. hľadanie pravdy (výkon vs. prítomnosť)
+    - AI ako terapeut nejde do hĺbky, zostáva na povrchu (analýza)
+    - AI nemá autenticitu, vnútorný zážitok
+    - dojem, okúzlenie vs. transformácia
 <!-- end_slide -->
 
 # AI ako terapeut?
-- Nástroj, dobrý sluha, zlý pán
 - Skvelý junior developer
+<!-- pause -->
 - V psychológii dobrý pre KBT či analytické vetvy
+<!-- pause -->
+- Nástroj, dobrý sluha, zlý pán
 <!-- end_slide -->
 
 # Ďakujem za pozornosť
 
-* martinuzak136@gmail.com
+* https://martinuzak.com

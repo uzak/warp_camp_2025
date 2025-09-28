@@ -1,6 +1,8 @@
 ---
 title: Na osobu zameraný prístup v dobe AI
-sub_title: AI ako psychológ?
+sub_title: |
+    AI ako psychológ? 
+    Splnil sa sen Mr. Data z Star Treku?
 author: Martin Užák
 theme:
     name: light
@@ -8,14 +10,31 @@ theme:
 
 - Formát: spoločné zamyslenie sa 
 - Workshop, nie prednáška
-- Will Mr. Data's dream come true?
+<!-- end_slide -->
+
+# Plán
+- Predstavenie
+- Predstavenie PCA
+- AI ako psycholog? Zamyslenie sa
+    - Nezbytné PCA podmienky
+        - empatia
+        - kongruencia
+        - bezpodmienečné prijatie
+    - Ľudskosť
+    - Vzťah
+    - Iné aspekty
+- Summary
+- Diskusia
 <!-- end_slide -->
 
 # O sebe
 - ITčkár od 2002
+<!-- pause -->
 - IT ako lepší svet?
+<!-- pause -->
 - Nefungujúce vzťahy ma priviedli k PCA
-    - Najlepší zážitok dovtedy čo som mal -> to musím vedieť
+    - Najlepší zážitok dovtedy čo som mal
+        - To musím vedieť!
 <!-- end_slide -->
 
 # Person Centered Approach
@@ -48,7 +67,7 @@ theme:
 
 <!-- pause -->
 - byť skutočný vs. zdanie dokonalosti
-- AI halucinácie
+    - AI halucinácie
 <!-- pause -->
 - Zážitok
     - MX nemocnica a San Judas Tadeo
@@ -60,13 +79,18 @@ theme:
 
 # Vzťah?
 <!-- pause -->
-- ľudia sa nevzťahujú k perfekcii, ale s opravdovosťou, úprimnosťou, nedokonalosťou
+- je perfekcia schopná vzťahu?
+<!-- pause -->
+- ľudia sa vzťahujú opravdovosti, úprimnosti, nedokonalosti
 <!-- pause -->
 - PCA: vzťah lieči
+<!-- pause -->
 
-# Ostatné
+# Iné aspekty
 <!-- pause -->
 - Hranice?
+<!-- pause -->
+- Cieľ?
 <!-- pause -->
 - Dôvera?
 <!-- pause -->
@@ -74,12 +98,10 @@ theme:
 <!-- pause -->
 - Ťažkosti -> Skúsenosti -> Rast?
 <!-- pause -->
-- AI nemá čo stratiť ani čo získať
-    - iba ak viac umelej skúsenosti
 - Hĺbka
-    - AI ako terapeut nejde do hĺbky, zostáva na povrchu (analýza)
-    - AI nemá autenticitu, vnútorný zážitok
-    - dojem, okúzlenie vs. transformácia
+    - AI **nemá autenticitu, vnútorný zážitok**
+    - AI nejde do hĺbky bytia, zostáva na povrchu (analýza)
+    - dojem, **okúzlenie vs. transformácia**
 <!-- end_slide -->
 
 # AI ako terapeut?
@@ -88,6 +110,10 @@ theme:
 - V psychológii dobrý pre KBT či analytické vetvy
 <!-- pause -->
 - Nástroj, dobrý sluha, zlý pán
+    - Pozor na use-case pri povídání
+<!-- end_slide -->
+
+# Diskusia 
 <!-- end_slide -->
 
 # Ďakujem za pozornosť

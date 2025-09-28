@@ -7,22 +7,23 @@ theme:
 ---
 
 # Quiz 1
+- Čo to je _náhoda_?
+<!-- pause -->
+- Čo sú indikácie toho, že niečo nie je náhoda?
+<!-- pause -->
 - Vznikol jazyk náhodou?
-<!-- pause -->
-- Čo to je vlastne _náhoda_?
-<!-- pause -->
-- Ak to by nebola náhoda, aké indikácie by sme nachádzali?
-<!-- end_slide -->
 
+<!-- end_slide -->
 # Prečo sa týmto zapodievať?
 - Jazyk je programovacia reč ľudskej mysle
 <!-- pause -->
 - Objavovať a učiť sa
-    - Doslovný a prenesený význam (metafora)
+    - metafora
+    - fallback: intelektuálne sudoku
 <!-- pause -->
 - Pôvod
 <!-- pause -->
-- Fallback: intelektuálne sudoku
+- Zmysel
 <!-- end_slide -->
     
 # Začíname
@@ -41,8 +42,8 @@ theme:
 <!-- end_slide -->
     
 # Etymológia
-* Akademicka. Hľadá rozdiely
-* Svojpomocná. Hľadá prienik
+* Akademicka. Hľadá rozdiely.
+* Ta druhá. Hľadá prienik. Reverzné inžinierstvo.
     * Franco Rendich: Comparative etymological Dictionary of classical Indo-European languages: Indo-European - Sanskrit - Greek - Latin
 
 ![image:width:100%](imgs/dictionary_rendich.png)
@@ -66,24 +67,37 @@ theme:
 
 <!-- end_slide -->
 
+Ukažka slovník Rendicha
+
+<!-- end_slide -->
+
 # RD - príchod svetla
 * **n** - vody, ničota
 * **d** - svetlo
 * **r** - príchod
 
+<!-- pause -->
+
 Aplikákcia v IE rečiach:
+<!-- pause -->
 * EN: oRDer, 
-* SK: RáD, poRiaDok, RaDosť, 
+<!-- pause -->
 * ES: oRDen,
-* DE: ORDnung
+<!-- pause -->
+* DE: ORDnung,
+<!-- pause -->
+* SK: RáD, poRiaDok, RaDosť.
+
+<!-- pause -->
 
 Aký je rozdiel medzi chaosom a kozmosom?
+<!-- pause -->
 
 - Vesmír ako _vše-smer_ - to, čo rastie do všetkých smerov.
-- Rovnaký význam ako IE koreň _kha_ (to čo sa rozpína krivočiaro)
-- Kha je koreň pre _chaos_ aj _kozmos_. Kozmos je usporiadaný. Preto krásny, preto kozmetika.
-
-RD ako príchod svetla do tmy noci, ako zažiatok novej epizódy stvorenia, ako svetlo usporiadanie stvorenie (chaos -> kozmos). 
+<!-- pause -->
+- Rovnaký význam ako IE koreň _kha_ (_to čo sa rozpína krivočiaro_)
+<!-- pause -->
+- _Kha_ je koreň pre _chaos_ aj _kozmos_. Kozmos je usporiadaný. Preto krásny a preto _kozmetika_.
 
 <!-- end_slide -->
 
@@ -96,7 +110,8 @@ RD ako príchod svetla do tmy noci, ako zažiatok novej epizódy stvorenia, ako 
 d -> ad -> mad -> mud -> mudra
 ```
 
-Múdrosť ako opojenie stvorením, mudra ako symbol toho.
+<!-- pause -->
+_Múdrosť_ ako opojenie stvorením, _mudra_ ako symbol toho.
 <!-- end_slide -->
 
 # SMR - koniec materiálnej formy
@@ -105,17 +120,20 @@ Múdrosť ako opojenie stvorením, mudra ako symbol toho.
 * **m** - limit
 * **r** - príchod
 
+<!-- pause -->
 Aplikácia:
 - SA: Marut, smrti
 - LAT: memoria, Mars, Martin, Marek
-- SK: smrť, morena, mrcina, mor, mordovať
+- EN: mortality, murder
+- DE: Mord
+- SK: smrť, morena, mrcina, mrieť, mŕtvy, mor, mordovať
 
 <!-- end_slide -->
 
 # Pozor
 - Umenie, nie mechanicky systém
+- Aplikovať všetko, čo vieme a výsledok musí davať zmysel 
 - Nie vždy bude fungovať
-- Zapojenie mozgovne nevyhnutné (to nás robí človekom)
 <!-- end_slide -->
 
 # Zaujímavé slova
@@ -135,7 +153,6 @@ Aplikácia:
 - sa:bheda -> beda
 - sa:lup -> lúpiť, lup
 - sa:yama -> jama
-- sa:silam -> sila
 - sa:shuci -> súci
 - sa:rasa -> rosa
 - sa:pas -> pes
@@ -151,7 +168,9 @@ Aplikácia:
 - sa:kUpah ~ kúpať sa
 
 <!-- end_slide -->
+# Feedback
 
+<!-- end_slide -->
 # Ďakujem za pozornosť
 
 * https://github.com/uzak/etymolog
